@@ -24,3 +24,5 @@ To give the chatbot more depth, we added fallback responses for unknown inputs a
 This project introduced us to core NLP concepts such as tokenization, lemmatization, intent recognition, and user interaction design. We learned how to handle unpredictable human language in a controlled software environment. A working chatbot is not only impressive as a demo project but also applicable in e-commerce, education, customer service, and more.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/bc78222d-c427-467e-afde-6468e538ff64)
